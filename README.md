@@ -10,3 +10,5 @@ Aqui mais uma alteração nesse arquivo inicial.
 É o início de uma longa jornada de projetos em repositórios, em diversas linguagens, mas principalmente Python, C++ e Java, supostamente.
 
 Esse é o início de minha experiência com o GitHub, que entre outras finalidades, me permitirá experimentar mais e ganhar mais experiência em linguagens como Python. Pretendo ler livros como ... criar projetos para ... e para ..., aprender muito e me divertir bastante no processo.
+
+Mais algumas informações sobre como pretendo me qualificar e contribuir mais com projetos open source e de energias renováveis, que melhorem nosso planeta e as condições de vida no mesmo.
